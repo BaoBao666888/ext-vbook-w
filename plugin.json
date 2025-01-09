@@ -7,10 +7,10 @@
       {
         "name": "Tushumi",
         "author": "QuocBao",
-        "path": "https://github.com/BaoBao666888/ext-vbook-w/raw/refs/heads/main/tushumi.cc/plugin.zip",
+        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tushumi.cc/plugin.zip",
         "version": 1,
         "source": "https://www.tushumi.cc/",
-        "icon": "https://github.com/BaoBao666888/ext-vbook-w/blob/main/tushumi.cc/icon.png",
+        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tushumi.cc/icon.png",
         "description": "Đọc truyện ở tushumi.cc",
         "type": "chinese_novel",
         "locale": "zh_CN"
@@ -18,10 +18,10 @@
       {
         "name": "256wx",
         "author": "QuocBao",
-        "path": "https://github.com/BaoBao666888/ext-vbook-w/raw/refs/heads/main/256wx/plugin.zip",
+        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/256wx/plugin.zip",
         "version": 1,
         "source": "https://www.256wx.net/",
-        "icon": "https://github.com/BaoBao666888/ext-vbook-w/blob/main/256wx/icon.png",
+        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/256wx/icon.png",
         "description": "Đọc truyện ở 256wx.net",
         "type": "chinese_novel",
         "locale": "zh_CN"
@@ -29,13 +29,14 @@
       {
         "name": "ixdzs",
         "author": "QuocBao",
-        "path": "https://github.com/BaoBao666888/ext-vbook-w/raw/refs/heads/main/ixdzs/plugin.zip",
+        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ixdzs/plugin.zip",
         "version": 1,
         "source": "https://ixdzs.tw/",
-        "icon": "https://github.com/BaoBao666888/ext-vbook-w/blob/main/ixdzs/icon.png",
+        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ixdzs/icon.png",
         "description": "Đọc truyện trên ixdzs.tw",
         "type": "chinese_novel",
         "locale": "zh_CN"
       }
     ]
   }
+  
