@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "ixdzs.tw",
+    "author": "QuocBao",
+    "version": 1,
+    "source": "https://ixdzs.tw/",
+    "regexp": "https://ixdzs.tw/read/\\d+/",
+    "description": "Đọc truyện trên ixdzs.tw",
+    "local": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

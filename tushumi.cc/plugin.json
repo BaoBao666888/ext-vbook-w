@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "tushumi.cc",
+    "author": "QuocBao",
+    "version": 1,
+    "source": "https://www.tushumi.cc/",
+    "regexp": "https://www.tushumi.cc/shu/\\d+/",
+    "description": "Đọc truyện ở tushumi.cc",
+    "local": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
