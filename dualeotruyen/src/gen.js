@@ -7,7 +7,6 @@ function execute(url, page) {
     
     if (response.ok) {
         const doc = response.html();
-        let nextPage = doc.select(".page_redirect a").get(page).text().trim();
         let data = [];
         //console.log(el.html());
         doc.select(".box_list .li_truyen").forEach(e => {
@@ -22,7 +21,7 @@ function execute(url, page) {
             });
         });
 
-        return Response.success(data, nextPage)
+        return Response.success(data, (parseInt(page, 10)+1).toString())
     }
     return Response.error("Kiểm tra lại?")
 }

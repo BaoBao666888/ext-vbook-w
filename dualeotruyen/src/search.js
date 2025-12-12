@@ -19,19 +19,19 @@ function execute(key, page) {
                 description: description
             })
         });
-        let next = null;
-        let bool = false;
-        let els = html.select(".page_redirect a");
-        for (let i=0; i < els.size(); i++) {
-            let e = els.get(i);
-            if (bool) {
-                next = e.text().trim();
-                break;
-            }
-            if (e.text().trim() == page) bool = true;
-        }
+        // let next = null;
+        // let bool = false;
+        // let els = html.select(".page_redirect a");
+        // for (let i=0; i < els.size(); i++) {
+        //     let e = els.get(i);
+        //     if (bool) {
+        //         next = e.text().trim();
+        //         break;
+        //     }
+        //     if (e.text().trim() == page) bool = true;
+        // }
 
-        return Response.success(data, next);
+        return Response.success(data, (parseInt(page, 10)+1).toString());
     }
     return null;
 }
