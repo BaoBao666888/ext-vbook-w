@@ -1,7 +1,6 @@
 load('config.js');
 load('decode.js');
 function execute(url) {
-    //const BASE_URL = "https://dualeotruyenl.com";
     const match = url.match(/\/truyen-tranh\/[^"]+?\.html/);
     url = BASE_URL + match[0];
     let response = fetch(url);
@@ -18,11 +17,11 @@ function execute(url) {
             }
             if (!img) {
                 let encoded = e.attr('data-lazy');
-                img = decode_light(encoded);
+                img = decode(encoded);
             }
             if (!img) {
                 let encodedOriginal = e.attr('data-lazy-original');
-                img = decode_light(encodedOriginal);
+                img = decode(encodedOriginal);
             }
             if (img) {
                 data.push(img);

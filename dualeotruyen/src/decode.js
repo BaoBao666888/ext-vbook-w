@@ -1,9 +1,13 @@
-function decode_light(hex){
-    var key = 22;
-    var str = '';
-    for (var i = 0; i < hex.length; i += 2) {
-        var code = parseInt(hex.substr(i, 2), 16);
-        str += String.fromCharCode(code ^ key);
+function decode(hexString) {
+    var key = 0xad;
+    var result = '';
+
+    if (!hexString) return ''; 
+
+    for (var i = 0; i < hexString.length; i += 2) {
+        var hexPair = hexString.substr(i, 2);
+        var charCode = parseInt(hexPair, 16);
+        result += String.fromCharCode(charCode ^ key);
     }
-    return str;
+    return result;
 }
