@@ -7,21 +7,19 @@ function execute(url) {
     if (response.ok) {
         let doc = response.html();
         let data = [];
-
         doc.select('.content_view_chap img').forEach(e => {
+            let imgData = e.attr("data-img").trim();
             let imgoriginal = e.attr("data-original").trim();
             let imgSrc = e.attr("src").trim();
-            let img = imgoriginal;
-            if (!imgoriginal) {
+            let img = imgData;
+            if (img) {
+                img = decodeImageLink(img);
+            }
+            if (!img && imgoriginal) {
+                img = imgoriginal;
+            }
+            if (!img && imgSrc) {
                 img = imgSrc;
-            }
-            if (!img) {
-                let encoded = e.attr('data-lazy');
-                img = decode(encoded);
-            }
-            if (!img) {
-                let encodedOriginal = e.attr('data-lazy-original');
-                img = decode(encodedOriginal);
             }
             if (img) {
                 data.push(img);
