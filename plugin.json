@@ -4,7 +4,20 @@
       "description": ""
     },
     "data": [
-           {
+      {
+        "name": "Hắc Ám Chi Các",
+        "author": "QuocBao",
+        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/plugin.zip",
+        "version": 1,
+        "source": "https://hacamchicac.info/",
+        "regexp": "https://hacamchicac.info/manga/[^/]+/$",
+        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/icon.png",
+        "description": "Đọc truyện trên web Hắc Ám Chi Các",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "comic"
+      },
+      {
         "name": "Sany Team",
         "author": "QuocBao",
         "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/sanyteam/plugin.zip",
