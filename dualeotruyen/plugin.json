@@ -2,14 +2,15 @@
   "metadata": {
     "name": "Dưa Leo truyện",
     "author": "QuocBao",
-    "version": 3,
+    "version": 5,
     "source": "https://dualeotruyenjd.com/",
     "regexp": "https://dualeo[^/]+.com/truyen-tranh/[^/]+.html$",
     "description": "Đọc truyện trên trang Dưa Leo truyện",
     "locale": "vi_VN",
     "language": "javascript",
     "type": "comic",
-    "tag": "nsfw"
+    "tag": "nsfw",
+    "encrypt": true
   },
   "script": {
     "home": "home.js",
