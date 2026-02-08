@@ -2,7 +2,7 @@
   "metadata": {
     "name": "Dưa Leo truyện",
     "author": "QuocBao",
-    "version": 5,
+    "version": 6,
     "source": "https://dualeotruyenjd.com/",
     "regexp": "https://dualeo[^/]+.com/truyen-tranh/[^/]+.html$",
     "description": "Đọc truyện trên trang Dưa Leo truyện",
