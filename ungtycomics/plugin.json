@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Ưng Tỷ Comics",
+    "author": "QuocBao",
+    "version": 1,
+    "source": "https://ungtycomicsnay.com/",
+    "regexp": "https://ungtycomics[^/]+.com/[^/]+.html$",
+    "description": "Đọc truyện trên trang Ưng Tỷ Comics",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

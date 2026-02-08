@@ -5,6 +5,17 @@
     },
     "data": [
       {
+        "name": "Ưng Tỷ Comics",
+        "author": "QuocBao",
+        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ungtycomics/plugin.zip",
+        "version": 1,
+        "source": "https://ungtycomicsnay.com/",
+        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ungtycomics/icon.png",
+        "description": "Đọc truyện trên trang Ưng Tỷ Comics",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
         "name": "Hắc Ám Chi Các",
         "author": "QuocBao",
         "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/plugin.zip",
