@@ -5,6 +5,17 @@
     },
     "data": [
       {
+        "name": "Xianqihaotiami APP",
+        "author": "QuocBao",
+        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/APPxianqihaotiami/plugin.zip",
+        "version": 2,
+        "source": "http://www.xianqihaotianmi.org/",
+        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/APPxianqihaotiami/icon.png",
+        "description": "Đọc truyện ở App xianqihaotiami",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
         "name": "Ưng Tỷ Comics",
         "author": "QuocBao",
         "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ungtycomics/plugin.zip",
