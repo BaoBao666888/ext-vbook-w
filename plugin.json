@@ -5,6 +5,17 @@
     },
     "data": [
       {
+        "name": "QAĐC",
+        "author": "QuocBao",
+        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qadcte/plugin.zip",
+        "version": 2,
+        "source": "https://qadcuteo.cc/",
+        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qadcte/icon.png",
+        "description": "Đọc truyện trên trang QAĐC",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
         "name": "Xianqihaotiami APP",
         "author": "QuocBao",
         "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/APPxianqihaotiami/plugin.zip",
