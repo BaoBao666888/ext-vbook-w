@@ -1,156 +1,177 @@
 {
-    "metadata": {
+  "metadata": {
+    "author": "QuocBao",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Navy Team Comic",
       "author": "QuocBao",
-      "description": ""
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/navyteamn-comic/plugin.zip",
+      "version": 1,
+      "source": "https://navyteamn.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/navyteamn-comic/icon.png",
+      "description": "Đọc truyện tranh trên Navy Team",
+      "type": "comic",
+      "locale": "vi_VN"
     },
-    "data": [
-      {
-        "name": "Roads Team",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/roadsteam/plugin.zip",
-        "version": 1,
-        "source": "https://roadsteam.net/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/roadsteam/icon.png",
-        "description": "Đọc truyện trên trang Roads Team",
-        "type": "comic",
-        "locale": "vi_VN",
-        "tag": "nsfw"
-      },
-      {
-        "name": "Mê Truyện Chữ",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/metruyenchu/plugin.zip",
-        "version": 2,
-        "source": "https://metruyenchu.com.vn",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/metruyenchu/icon.png",
-        "description": "Đọc truyện chữ trên Mê Truyện Chữ",
-        "type": "novel",
-        "locale": "vi_VN"
-      },
-      {
-        "name": "Mọt Truyện",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/plugin.zip",
-        "version": 1,
-        "source": "https://mottruyen.com.vn",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/icon.png",
-        "description": "Đọc truyện trên app Mọt Truyện",
-        "type": "novel",
-        "locale": "vi_VN"
-      },
-      {
-        "name": "La cà truyện",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/plugin.zip",
-        "version": 2,
-        "source": "https://lacatruyen.online",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/icon.png",
-        "description": "Đọc truyện trên La cà truyện",
-        "type": "novel",
-        "locale": "vi_VN"
-      },
-      {
-        "name": "QAĐC",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qadcte/plugin.zip",
-        "version": 2,
-        "source": "https://qadcuteo.cc/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qadcte/icon.png",
-        "description": "Đọc truyện trên trang QAĐC",
-        "type": "comic",
-        "locale": "vi_VN"
-      },
-      {
-        "name": "Xianqihaotiami APP",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/APPxianqihaotiami/plugin.zip",
-        "version": 2,
-        "source": "http://www.xianqihaotianmi.org/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/APPxianqihaotiami/icon.png",
-        "description": "Đọc truyện ở App xianqihaotiami",
-        "type": "chinese_novel",
-        "locale": "zh_CN"
-      },
-      {
-        "name": "Ưng Tỷ Comics",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ungtycomics/plugin.zip",
-        "version": 1,
-        "source": "https://ungtycomicseo.com/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ungtycomics/icon.png",
-        "description": "Đọc truyện trên trang Ưng Tỷ Comics",
-        "type": "comic",
-        "locale": "vi_VN"
-      },
-      {
-        "name": "Hắc Ám Chi Các",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/plugin.zip",
-        "version": 3,
-        "source": "https://hacamchicac.info/",
-        "regexp": "https://hacamchicac.info/manga/[^/]+/$",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/icon.png",
-        "description": "Đọc truyện trên web Hắc Ám Chi Các",
-        "locale": "vi_VN",
-        "language": "javascript",
-        "type": "comic"
-      },
-      {
-        "name": "Sany Team",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/sanyteam/plugin.zip",
-        "version": 1,
-        "source": "https://sanyteam.com/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/sanyteam/icon.png",
-        "description": "Đọc truyện trên trang Sany Team",
-        "type": "comic",
-        "locale": "vi_VN"
-      },
-     {
-        "name": "Dưa Leo truyện",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dualeotruyen/plugin.zip",
-        "version": 6,
-        "source": "https://dualeotruyenjd.com/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dualeotruyen/icon.png",
-        "description": "Đọc truyện trên dualeotruyen",
-        "type": "comic",
-        "locale": "vi_VN",
-        "tag": "nsfw"
-      },
-      {
-        "name": "Tushumi",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tushumi.cc/plugin.zip",
-        "version": 1,
-        "source": "https://www.tushumi.cc/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tushumi.cc/icon.png",
-        "description": "Đọc truyện ở tushumi.cc",
-        "type": "chinese_novel",
-        "locale": "zh_CN"
-      },
-      {
-        "name": "256wx",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/256wx/plugin.zip",
-        "version": 1,
-        "source": "https://www.256wx.net/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/256wx/icon.png",
-        "description": "Đọc truyện ở 256wx.net",
-        "type": "chinese_novel",
-        "locale": "zh_CN"
-      },
-      {
-        "name": "ixdzs",
-        "author": "QuocBao",
-        "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ixdzs/plugin.zip",
-        "version": 1,
-        "source": "https://ixdzs.tw/",
-        "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ixdzs/icon.png",
-        "description": "Đọc truyện trên ixdzs.tw",
-        "type": "chinese_novel",
-        "locale": "zh_CN"
-      }
-    ]
-  }
-  
+    {
+      "name": "Navy Team Novel",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/navyteamn-novel/plugin.zip",
+      "version": 1,
+      "source": "https://navyteamn.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/navyteamn-novel/icon.png",
+      "description": "Đọc tiểu thuyết và truyện chữ trên Navy Team",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Roads Team",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/roadsteam/plugin.zip",
+      "version": 1,
+      "source": "https://roadsteam.net/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/roadsteam/icon.png",
+      "description": "Đọc truyện trên trang Roads Team",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Mê Truyện Chữ",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/metruyenchu/plugin.zip",
+      "version": 2,
+      "source": "https://metruyenchu.com.vn",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/metruyenchu/icon.png",
+      "description": "Đọc truyện chữ trên Mê Truyện Chữ",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Mọt Truyện",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/plugin.zip",
+      "version": 1,
+      "source": "https://mottruyen.com.vn",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/icon.png",
+      "description": "Đọc truyện trên app Mọt Truyện",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "La cà truyện",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/plugin.zip",
+      "version": 2,
+      "source": "https://lacatruyen.online",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/icon.png",
+      "description": "Đọc truyện trên La cà truyện",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "QAĐC",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qadcte/plugin.zip",
+      "version": 2,
+      "source": "https://qadcuteo.cc/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qadcte/icon.png",
+      "description": "Đọc truyện trên trang QAĐC",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Xianqihaotiami APP",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/APPxianqihaotiami/plugin.zip",
+      "version": 2,
+      "source": "http://www.xianqihaotianmi.org/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/APPxianqihaotiami/icon.png",
+      "description": "Đọc truyện ở App xianqihaotiami",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "Ưng Tỷ Comics",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ungtycomics/plugin.zip",
+      "version": 1,
+      "source": "https://ungtycomicseo.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ungtycomics/icon.png",
+      "description": "Đọc truyện trên trang Ưng Tỷ Comics",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Hắc Ám Chi Các",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/plugin.zip",
+      "version": 3,
+      "source": "https://hacamchicac.info/",
+      "regexp": "https://hacamchicac.info/manga/[^/]+/$",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/icon.png",
+      "description": "Đọc truyện trên web Hắc Ám Chi Các",
+      "locale": "vi_VN",
+      "language": "javascript",
+      "type": "comic"
+    },
+    {
+      "name": "Sany Team",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/sanyteam/plugin.zip",
+      "version": 1,
+      "source": "https://sanyteam.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/sanyteam/icon.png",
+      "description": "Đọc truyện trên trang Sany Team",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Dưa Leo truyện",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dualeotruyen/plugin.zip",
+      "version": 6,
+      "source": "https://dualeotruyenjd.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dualeotruyen/icon.png",
+      "description": "Đọc truyện trên dualeotruyen",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Tushumi",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tushumi.cc/plugin.zip",
+      "version": 1,
+      "source": "https://www.tushumi.cc/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tushumi.cc/icon.png",
+      "description": "Đọc truyện ở tushumi.cc",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "256wx",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/256wx/plugin.zip",
+      "version": 1,
+      "source": "https://www.256wx.net/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/256wx/icon.png",
+      "description": "Đọc truyện ở 256wx.net",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "ixdzs",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ixdzs/plugin.zip",
+      "version": 1,
+      "source": "https://ixdzs.tw/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ixdzs/icon.png",
+      "description": "Đọc truyện trên ixdzs.tw",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }
+  ]
+}
