@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[APP] Wikidich",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wikidichapp/plugin.zip",
+      "version": 1,
+      "source": "https://api.truyenreview.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wikidichapp/icon.png",
+      "description": "Đọc truyện trên App Wiki Dịch",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Đọc Truyện Tranh BL",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/doctruyentranhbl/plugin.zip",
