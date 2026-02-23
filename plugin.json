@@ -5,6 +5,28 @@
   },
   "data": [
     {
+      "name": "Đọc Truyện Tranh BL",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/doctruyentranhbl/plugin.zip",
+      "version": 1,
+      "source": "https://doctruyentranhbl.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/doctruyentranhbl/icon.png",
+      "description": "Đọc truyện tranh BL tại doctruyentranhbl",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "L'orange Team",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lorangeteam/plugin.zip",
+      "version": 1,
+      "source": "https://lorangeteam.net/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lorangeteam/icon.png",
+      "description": "Đọc truyện tranh BL tại lorangeteam",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Navy Team Comic",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/navyteamn-comic/plugin.zip",
