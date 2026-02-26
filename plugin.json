@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Minttea Novel",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mintteanovel/plugin.zip",
+      "version": 1,
+      "source": "https://mintteanovel.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mintteanovel/icon.png",
+      "description": "Đọc truyện chữ trên Minttea Novel",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "STV App Vi",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/stvapp/plugin.zip",
