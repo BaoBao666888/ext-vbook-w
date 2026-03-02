@@ -1,3 +1,5 @@
 node_modules/
 test.json
 history.bak
+fanqie-beta/
+server.js
