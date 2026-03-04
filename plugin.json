@@ -175,7 +175,7 @@
       "name": "Hắc Ám Chi Các",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://hacamchicac.info/",
       "regexp": "https://hacamchicac.info/manga/[^/]+/$",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/icon.png",
