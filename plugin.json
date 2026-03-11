@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[APP] Qidian",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qidian/plugin.zip",
+      "version": 1,
+      "source": "http://www.qidian.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qidian/icon.png",
+      "description": "Đọc truyện trên app Qidian ~",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "JJWXC · Tấn Giang",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/jjwxc/plugin.zip",
