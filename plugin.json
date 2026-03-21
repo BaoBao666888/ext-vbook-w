@@ -5,17 +5,6 @@
   },
   "data": [
     {
-      "name": "STV App Trung",
-      "author": "QuocBao",
-      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/stvappzh/plugin.zip",
-      "version": 1,
-      "source": "https://sangtacviet.com",
-      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/stvappzh/icon.png",
-      "description": "Đọc truyện trên STV App (Text Trung, nếu nguồn hỗ trợ) ~",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "JJWXC · Tấn Giang",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/jjwxc/plugin.zip",
