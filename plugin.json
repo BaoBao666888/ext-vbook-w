@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[APP] Qidian",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qidian/plugin.zip",
+      "version": 6,
+      "source": "http://www.qidian.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qidian/icon.png",
+      "description": "Đọc truyện trên app Khởi Điểm ~",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "JJWXC · Tấn Giang",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/jjwxc/plugin.zip",
@@ -42,7 +53,7 @@
       "name": "STV App Vi",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/stvapp/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://sangtacviet.com",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/stvapp/icon.png",
       "description": "Đọc truyện trên STV App (Vi) ~",
