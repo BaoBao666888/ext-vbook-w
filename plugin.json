@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Trang Truyện",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/trangtruyensite/plugin.zip",
+      "version": 3,
+      "source": "https://trangtruyen.site",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/trangtruyensite/icon.png",
+      "description": "Đọc truyện trên Trang Truyện ~.",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "[APP] Qidian",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/qidian/plugin.zip",
