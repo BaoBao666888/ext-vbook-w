@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "po18",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/po18_reader/plugin.zip",
+      "version": 7,
+      "source": "https://www.po18.tw",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/po18_reader/icon.png",
+      "description": "Đọc truyện trên trang www.po18.tw",
+      "locale": "zh_CN",
+      "type": "chinese_novel",
+      "tag": "nsfw"
+    },
+    {
       "name": "Trang Truyện",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/trangtruyensite/plugin.zip",
