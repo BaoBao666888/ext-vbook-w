@@ -5,6 +5,28 @@
   },
   "data": [
     {
+      "name": "Wattpad",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wattpad/plugin.zip",
+      "version": 2,
+      "source": "https://www.wattpad.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wattpad/icon.png",
+      "description": "Đọc truyện trên trang wattpad.",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Jelly Comics",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/jellycomics/plugin.zip",
+      "version": 2,
+      "source": "https://jellycomics.xyz/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/jellycomics/icon.png",
+      "description": "Đọc truyện trên trang Jelly Comics",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Boylove Bất Tử",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/boylovebattu/plugin.zip",
