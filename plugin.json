@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Destin Team",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/destinteam/plugin.zip",
+      "version": 1,
+      "source": "https://destinteam.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/destinteam/icon.png",
+      "description": "Đọc truyện tranh trên Destin Team.",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Wattpad",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wattpad/plugin.zip",
@@ -209,7 +220,7 @@
       "name": "La cà truyện",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/plugin.zip",
-      "version": 8,
+      "version": 10,
       "source": "https://lacatruyen.club",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/icon.png",
       "description": "Đọc truyện trên La cà truyện",
