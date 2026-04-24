@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Bilibili",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/bilibili.tv/plugin.zip",
+      "version": 1,
+      "source": "https://www.bilibili.tv/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/bilibili.tv/icon.png",
+      "description": "Bilibili bản quốc tế. Chưa xem được video kèm âm thanh có độ phân giải cao do vbook chưa hỗ trợ.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "YouTube",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/yt/plugin.zip",
