@@ -8,7 +8,7 @@
       "name": "YouTube",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/yt/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://www.youtube.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/yt/icon.png",
       "description": "Xem video/live trên Du tu bé. Hiện chưa phát độ phân giải cao có tiếng do vbook chưa hỗ trợ. ",
