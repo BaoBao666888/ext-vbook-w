@@ -5,6 +5,28 @@
   },
   "data": [
     {
+      "name": "Dailymotion",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dailymotion/plugin.zip",
+      "version": 1,
+      "source": "https://www.dailymotion.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dailymotion/icon.png",
+      "description": "Xem video trên Dailymotion. Đăng nhập trong trình duyệt tích hợp nếu không xem được. ",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
+      "name": "RoPhim",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/rophim/plugin.zip",
+      "version": 1,
+      "source": "https://rophim9.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/rophim/icon.png",
+      "description": "Xem video trên Rophim. Domain web đổi thường xuyên nên có thể sửa CONFIG_URL trong cấu hình nguồn.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "Bilibili",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/bilibili.tv/plugin.zip",
