@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Twitch",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/twitch.tv/plugin.zip",
+      "version": 1,
+      "source": "https://www.twitch.tv/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/twitch.tv/icon.png",
+      "description": "Xem live stream và VOD Twitch.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "Dailymotion",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dailymotion/plugin.zip",
