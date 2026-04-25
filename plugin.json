@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "iQIYI",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/iq.com/plugin.zip",
+      "version": 1,
+      "source": "https://www.iq.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/iq.com/icon.png",
+      "description": "iQIYI bản quốc tế. Tự điều chỉnh độ phân giải bằng true/false bên dưới cài đặt ext. Đăng nhập trong trình duyệt tích hợp của VBook beta nếu video cần VIP.",
+      "locale": "zh_CN",
+      "type": "video"
+    },
+    {
       "name": "Phim4K",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/phim4k/plugin.zip",
