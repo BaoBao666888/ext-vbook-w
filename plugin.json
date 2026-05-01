@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "BLVietsub",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/blvietsub/plugin.zip",
+      "version": 1,
+      "source": "https://www.blvietsub.top/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/blvietsub/icon.png",
+      "description": "Xem phim BL Vietsub từ BLVietsub. Nguồn phát ưu tiên Dailymotion native HLS.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "iQIYI",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/iq.com/plugin.zip",
