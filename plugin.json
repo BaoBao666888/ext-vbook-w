@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "FreeReels",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/freereels/plugin.zip",
+      "version": 1,
+      "source": "https://free-reels.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/freereels/icon.png",
+      "description": "Xem video ngắn từ FreeReels.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "BLVietsub",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/blvietsub/plugin.zip",
