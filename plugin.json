@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Gấu Mèo Team",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/gaumeoteam/plugin.zip",
+      "version": 1,
+      "source": "https://gaumeoteam.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/gaumeoteam/icon.png",
+      "description": "Đọc truyện trên Gấu Mèo Team",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
       "name": "FreeReels",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/freereels/plugin.zip",
