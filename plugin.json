@@ -107,10 +107,10 @@
       "name": "YouTube",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/yt/plugin.zip",
-      "version": 4,
+      "version": 5,
       "source": "https://www.youtube.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/yt/icon.png",
-      "description": "Xem video/live trên Du Tu Be. Hỗ trợ xem video chất lượng cao kèm audio. Video kids chưa hỗ trợ xem chất lượng cao. Video đa ngôn ngữ chưa hỗ trợ (chỉ original). Có PĐ (ưu tiên vi). ",
+      "description": "Xem video/live trên Du Tu Be. Có Audio/PĐ (ưu tiên vi). Đã hỗ trợ video kids/đa ngôn ngữ.",
       "locale": "vi_VN",
       "type": "video"
     },
