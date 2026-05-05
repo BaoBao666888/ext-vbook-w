@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "YOUKU",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/youku/plugin.zip",
+      "version": 1,
+      "source": "https://www.youku.tv/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/youku/icon.png",
+      "description": "Xem video YOUKU quốc tế. Ưu tiên audio/phụ đề tiếng Việt và tự lấy cna/MTOP token khi cần.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "MGTV",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mgtv/plugin.zip",
