@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "JulyComic",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/julycomics/plugin.zip",
+      "version": 1,
+      "source": "https://julycomics.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/julycomics/icon.png",
+      "description": "Đọc truyện trên JulyComic. Ext tự lấy token đăng nhập nếu có, gửi flag 18+ và tự gọi xác nhận 18+ khi có tài khoản. Search `token:<Bearer token>` để nhập nhanh token, `token:clear` xóa token đang lưu. ",
+      "locale": "vi_VN",
+      "type": "comic",
+      "tag": "nsfw"
+    },
+    {
       "name": "[APP] QQ阅读",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/book.qq/plugin.zip",
