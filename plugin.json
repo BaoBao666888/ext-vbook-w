@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "MGTV",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mgtv/plugin.zip",
+      "version": 1,
+      "source": "https://w.mgtv.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mgtv/icon.png",
+      "description": "Xem video trên MGTV/HITV quốc tế. ",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "JulyComic",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/julycomics/plugin.zip",
