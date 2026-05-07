@@ -42,10 +42,10 @@
       "name": "[APP] QQ阅读",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/book.qq/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "book.qq.com",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/book.qq/icon.png",
-      "description": "Đọc QQ阅读. Chap miễn phí dùng cấu hình tự tạo; chap khóa cần tài khoản phù hợp.",
+      "description": "Đọc QQ阅读. Chap miễn phí dùng cấu hình tự tạo; liên hệ để nhận bản VIP. ",
       "locale": "zh_CN",
       "type": "chinese_novel"
     },
