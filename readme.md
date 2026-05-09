@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/plugin.json
 
 - Các extension đọc truyện dùng được trên bản VBook thường.
 - Các extension video chỉ xem được trên VBook Beta.
-- Muốn dùng extension Qidian thì liên hệ Discord để lấy riêng.
+- Muốn dùng extension Khởi điểm, QQ Book, Fanqie thì liên hệ Discord để lấy riêng.
 
 ## Liên hệ
 

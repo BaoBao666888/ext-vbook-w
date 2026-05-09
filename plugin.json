@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[APP] TYT",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tyt/plugin.zip",
+      "version": 1,
+      "source": "https://tytnovel.app/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tyt/icon.png",
+      "description": "Đọc truyện từ app TYT.",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
       "name": "YOUKU",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/youku/plugin.zip",
