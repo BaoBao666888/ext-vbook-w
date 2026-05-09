@@ -130,7 +130,7 @@
       "name": "Dailymotion",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dailymotion/plugin.zip",
-      "version": 2,
+      "version": 3,
       "source": "https://www.dailymotion.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dailymotion/icon.png",
       "description": "Xem video trên Dailymotion. Đăng nhập trong trình duyệt tích hợp nếu không xem được. ",
