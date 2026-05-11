@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "HiTV",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hitv/plugin.zip",
+      "version": 1,
+      "source": "https://home.hitv.vip/vi-vn/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hitv/icon.png",
+      "description": "Xem phim từ HiTV.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "[APP] TYT",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tyt/plugin.zip",
