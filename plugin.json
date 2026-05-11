@@ -473,6 +473,18 @@
       "locale": "vi_VN"
     },
     {
+      "name": "My Reading Manga",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/myreadingmanga/plugin.zip",
+      "version": 1,
+      "source": "https://myreadingmanga.info/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/myreadingmanga/icon.png",
+      "description": "Đọc truyện và xem video trên MyReadingManga.",
+      "locale": "global",
+      "type": "comic",
+      "tag": "nsfw"
+    },
+    {
       "name": "Dưa Leo truyện",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dualeotruyen/plugin.zip",
