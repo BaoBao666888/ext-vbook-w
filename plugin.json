@@ -75,7 +75,7 @@
       "name": "TikTok",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tiktok/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://www.tiktok.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tiktok/icon.png",
       "description": "Xem TikTok bằng state app/web. Hỗ trợ xem link từ app.",
@@ -473,10 +473,22 @@
       "locale": "vi_VN"
     },
     {
+      "name": "TVKH",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/bananacoo/plugin.zip",
+      "version": 1,
+      "source": "https://bananacoo.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/bananacoo/icon.png",
+      "description": "Đọc truyện tranh trên TVKH/Bananacoo.",
+      "locale": "vi_VN",
+      "type": "comic",
+      "tag": "nsfw"
+    },
+    {
       "name": "My Reading Manga",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/myreadingmanga/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://myreadingmanga.info/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/myreadingmanga/icon.png",
       "description": "Đọc truyện và xem video trên MyReadingManga.",
