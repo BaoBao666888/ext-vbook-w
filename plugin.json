@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[APP] Zhihu Hỏi đáp",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/zhihu/plugin.zip",
+      "version": 1,
+      "source": "zhihu.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/zhihu/icon.png",
+      "description": "Đọc trên app Zhihu, có thêm cấu hình zhihuCookie để dùng cookie đăng nhập khi cần. Hỗ trợ câu hỏi, câu trả lời, pin/想法, bài viết, trang chủ Đề xuất/热榜, bình luận và gợi ý.",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
       "name": "HiTV",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hitv/plugin.zip",
@@ -319,7 +330,7 @@
       "name": "STV App Vi",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/stvapp/plugin.zip",
-      "version": 5,
+      "version": 6,
       "source": "https://sangtacviet.com",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/stvapp/icon.png",
       "description": "Đọc truyện trên STV App (Vi) ~",
