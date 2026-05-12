@@ -19,10 +19,10 @@
       "name": "[APP] Zhihu Hỏi đáp",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/zhihu/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "zhihu.com",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/zhihu/icon.png",
-      "description": "Đọc trên app Zhihu, có thêm cấu hình zhihuCookie để dùng cookie đăng nhập khi cần. Hỗ trợ câu hỏi, câu trả lời, pin/想法, bài viết, trang chủ Đề xuất/热榜, bình luận và gợi ý.",
+      "description": "Đọc Zhihu bằng API Android/web đã ký, có thêm cấu hình zhihuCookie để dùng cookie đăng nhập khi cần. Hỗ trợ câu hỏi, câu trả lời, pin/想法, bài viết, trang chủ Đề xuất/热榜, bình luận và gợi ý.",
       "locale": "zh_CN",
       "type": "chinese_novel"
     },
