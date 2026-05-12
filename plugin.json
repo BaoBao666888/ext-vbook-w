@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Showbox",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/showbox/plugin.zip",
+      "version": 1,
+      "source": "https://showbox.run/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/showbox/icon.png",
+      "description": "Xem phim trên Showbox.",
+      "locale": "vi_VN",
+      "type": "video"
+    },
+    {
       "name": "[APP] Zhihu Hỏi đáp",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/zhihu/plugin.zip",
