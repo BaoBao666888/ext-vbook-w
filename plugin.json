@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "WeTV",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wetv/plugin.zip",
+      "version": 1,
+      "source": "https://wetv.vip/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wetv/icon.png",
+      "description": "WeTV bản quốc tế. Có phụ đề (ưu tiên vi). ",
+      "locale": "global",
+      "type": "video"
+    },
+    {
       "name": "Showbox",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/showbox/plugin.zip",
