@@ -485,14 +485,14 @@
       "name": "Hắc Ám Chi Các",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/plugin.zip",
-      "version": 5,
-      "source": "https://hacamchicac.info/",
-      "regexp": "https://hacamchicac.info/manga/[^/]+/$",
+      "version": 6,
+      "source": "https://haccbl.xyz/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hacamchicac/icon.png",
       "description": "Đọc truyện trên web Hắc Ám Chi Các",
       "locale": "vi_VN",
       "language": "javascript",
-      "type": "comic"
+      "type": "comic",
+      "tag": "nsfw"
     },
     {
       "name": "Sany Team",
