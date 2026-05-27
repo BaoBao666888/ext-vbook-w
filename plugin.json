@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[dmxs]耽美小说",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dmxs/plugin.zip",
+      "version": 1,
+      "source": "https://www.dmxs.org/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dmxs/icon.png",
+      "description": "Đọc truyện trên dmxs.org.",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
       "name": "WeTV",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wetv/plugin.zip",
