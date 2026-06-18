@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Faloo",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/faloo/plugin.zip",
+      "version": 1,
+      "source": "faloo.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/faloo/icon.png",
+      "description": "Đọc Faloo. Chap VIP gọi Faloo app local API; chap free thử web trước rồi fallback local API.",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
       "name": "69书迷",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/69shumi/plugin.zip",
