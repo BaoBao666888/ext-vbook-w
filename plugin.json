@@ -8,7 +8,7 @@
       "name": "Faloo",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/faloo/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "faloo.com",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/faloo/icon.png",
       "description": "Đọc Faloo. Chap VIP gọi Faloo app local API; chap free thử web trước rồi fallback local API.",
