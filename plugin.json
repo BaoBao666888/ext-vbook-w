@@ -407,12 +407,13 @@
       "name": "Đọc Truyện Tranh BL",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/doctruyentranhbl/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://doctruyentranhbl.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/doctruyentranhbl/icon.png",
       "description": "Đọc truyện tranh BL tại doctruyentranhbl",
       "type": "comic",
-      "locale": "vi_VN"
+      "locale": "vi_VN",
+      "tag": "nsfw"
     },
     {
       "name": "L'orange Team",
