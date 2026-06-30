@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "[APP] Shuqi",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/shuqi/plugin.zip",
+      "version": 1,
+      "source": "shuqi.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/shuqi/icon.png",
+      "description": "Đọc chương free từ app Shuqi. VIP/chương khóa cần account mua, chưa có acc test, chưa hỗ trợ.",
+      "locale": "zh_CN",
+      "language": "javascript",
+      "type": "chinese_novel"
+    },
+    {
       "name": "Faloo",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/faloo/plugin.zip",
