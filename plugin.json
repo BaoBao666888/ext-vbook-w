@@ -186,7 +186,7 @@
       "name": "BLVietsub",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/blvietsub/plugin.zip",
-      "version": 6,
+      "version": 7,
       "source": "https://www.blvietsub.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/blvietsub/icon.png",
       "description": "Xem phim BL Vietsub từ BLVietsub. Nguồn phát ưu tiên Dailymotion native HLS.",
