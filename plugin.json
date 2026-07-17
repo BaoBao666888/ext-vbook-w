@@ -97,8 +97,8 @@
       "name": "[APP] TYT",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tyt/plugin.zip",
-      "version": 9,
-      "source": "https://tytnovel.org/",
+      "version": 10,
+      "source": "https://tytnovel.info/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/tyt/icon.png",
       "description": "Đọc truyện từ app TYT.",
       "locale": "vi_VN",
@@ -469,17 +469,6 @@
       "source": "https://metruyenchuvn.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/metruyenchu/icon.png",
       "description": "Đọc truyện chữ trên Mê Truyện Chữ",
-      "type": "novel",
-      "locale": "vi_VN"
-    },
-    {
-      "name": "Mọt Truyện",
-      "author": "QuocBao",
-      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/plugin.zip",
-      "version": 1,
-      "source": "https://mottruyen.com.vn",
-      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/icon.png",
-      "description": "Đọc truyện trên app Mọt Truyện",
       "type": "novel",
       "locale": "vi_VN"
     },
