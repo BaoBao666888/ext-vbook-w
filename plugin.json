@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[APP] Shubl",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/shubl/plugin.zip",
+      "version": 1,
+      "source": "shubl.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/shubl/icon.png",
+      "description": "Đọc truyện trên app Shubl. Chap free xem bằng acc tự tạo, chap vip cần state acc đã mua vip - chưa test. ",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
       "name": "[APP] Shuqi",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/shuqi/plugin.zip",
@@ -13,7 +24,6 @@
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/shuqi/icon.png",
       "description": "Đọc chương free từ app Shuqi. VIP/chương khóa cần account mua, chưa có acc test, chưa hỗ trợ.",
       "locale": "zh_CN",
-      "language": "javascript",
       "type": "chinese_novel"
     },
     {
