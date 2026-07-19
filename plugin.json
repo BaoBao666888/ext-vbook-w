@@ -5,6 +5,16 @@
   },
   "data": [
     {
+      "name": "Google Translate",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/googletranslate/plugin.zip",
+      "version": 1,
+      "source": "https://translate.google.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/googletranslate/icon.png",
+      "description": "Dịch văn bản bằng Google Translate.",
+      "type": "translate"
+    },
+    {
       "name": "[APP] Shubl",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/shubl/plugin.zip",
