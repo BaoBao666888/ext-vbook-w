@@ -5,6 +5,16 @@
   },
   "data": [
     {
+      "name": "Local AI Translate",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/localaitranslate/plugin.zip",
+      "version": 4,
+      "source": "https://huggingface.co/DanVP",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/localaitranslate/icon.png",
+      "description": "Siêu chậm, để chơi thôi không nên dùng thật. Dịch Trung - Việt bằng model AI chạy trên thiết bị; tự chọn model hoặc chọn thủ công. ",
+      "type": "translate"
+    },
+    {
       "name": "Google Translate",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/googletranslate/plugin.zip",
