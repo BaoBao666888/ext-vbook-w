@@ -5,13 +5,13 @@
   },
   "data": [
     {
-      "name": "Local AI Translate",
+      "name": "Immersive Translate",
       "author": "QuocBao",
-      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/localaitranslate/plugin.zip",
-      "version": 4,
-      "source": "https://huggingface.co/DanVP",
-      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/localaitranslate/icon.png",
-      "description": "Siêu chậm, để chơi thôi không nên dùng thật. Dịch Trung - Việt bằng model AI chạy trên thiết bị; tự chọn model hoặc chọn thủ công. ",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/immersivetranslate/plugin.zip",
+      "version": 1,
+      "source": "https://immersivetranslate.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/immersivetranslate/icon.png",
+      "description": "Dịch bằng Free Auto của Immersive Translate. Khi user_token hợp lệ, ext tự hiện các model Pro/Max mà tài khoản được dùng.",
       "type": "translate"
     },
     {
@@ -598,8 +598,8 @@
       "name": "Dưa Leo truyện",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dualeotruyen/plugin.zip",
-      "version": 20,
-      "source": "https://dualeotruyenvt.com/",
+      "version": 21,
+      "source": "https://dualeotruyendl.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/dualeotruyen/icon.png",
       "description": "Đọc truyện trên dualeotruyen",
       "type": "comic",
