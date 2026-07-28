@@ -94,7 +94,7 @@
       "name": "Showbox",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/showbox/plugin.zip",
-      "version": 2,
+      "version": 3,
       "source": "https://rophimzz.live",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/showbox/icon.png",
       "description": "Xem phim trên Showbox.",
@@ -111,17 +111,6 @@
       "description": "Đọc Zhihu bằng API Android/web đã ký, có thêm cấu hình zhihuCookie để dùng cookie đăng nhập khi cần. Hỗ trợ câu hỏi, câu trả lời, pin/想法, bài viết, trang chủ Đề xuất/热榜, bình luận và gợi ý.",
       "locale": "zh_CN",
       "type": "chinese_novel"
-    },
-    {
-      "name": "HiTV",
-      "author": "QuocBao",
-      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hitv/plugin.zip",
-      "version": 1,
-      "source": "https://home.hitv.vip/vi-vn/",
-      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hitv/icon.png",
-      "description": "Xem phim từ HiTV.",
-      "locale": "vi_VN",
-      "type": "video"
     },
     {
       "name": "[APP] TYT",
@@ -447,17 +436,6 @@
       "tag": "nsfw"
     },
     {
-      "name": "L'orange Team",
-      "author": "QuocBao",
-      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lorangeteam/plugin.zip",
-      "version": 1,
-      "source": "https://lorangeteam.net/",
-      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lorangeteam/icon.png",
-      "description": "Đọc truyện tranh BL tại lorangeteam",
-      "type": "comic",
-      "locale": "vi_VN"
-    },
-    {
       "name": "Navy Team Comic",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/navyteamn-comic/plugin.zip",
@@ -495,7 +473,7 @@
       "name": "Mê Truyện Chữ",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/metruyenchu/plugin.zip",
-      "version": 5,
+      "version": 7,
       "source": "https://metruyenchuvn.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/metruyenchu/icon.png",
       "description": "Đọc truyện chữ trên Mê Truyện Chữ",
@@ -506,7 +484,7 @@
       "name": "La cà truyện",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/plugin.zip",
-      "version": 21,
+      "version": 22,
       "source": "https://lacatruyen.buzz",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/lacatruyen/icon.png",
       "description": "Đọc truyện trên La cà truyện",
