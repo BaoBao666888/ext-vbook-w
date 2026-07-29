@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[APP] Ciweimao",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ciweimao/plugin.zip",
+      "version": 2,
+      "source": "https://www.ciweimao.com/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ciweimao/icon.png",
+      "description": "App Ciweimao cho novel và comic. Bản này chỉ hỗ trợ đọc chương miễn phí bằng state tự tạo. ",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
       "name": "Immersive Translate",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/immersivetranslate/plugin.zip",
