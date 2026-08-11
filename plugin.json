@@ -621,7 +621,7 @@
       "name": "69书吧",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/69shuba/plugin.zip",
-      "version": 2,
+      "version": 3,
       "source": "https://www.69shuba.com",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/69shuba/icon.png",
       "description": "Đọc truyện chữ Trung trên 69书吧. Nếu bị Cloudflare/verify chặn, mở trang 69书吧 trong trình duyệt VBook để xác minh.",
