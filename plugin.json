@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Mino Truyện",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/minotruyen/plugin.zip",
+      "version": 1,
+      "source": "https://minotruyenv6.xyz/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/minotruyen/icon.png",
+      "description": "Chỉ dùng được trên vBook beta. Đọc manga, truyện tranh và tiểu thuyết trên Mino Truyện.\nSearch mặc định ở kho Tiểu thuyết; có thể đổi sang Manga, Truyện tranh hoặc 18+ trong cấu hình.\nNội dung 18+ chỉ xuất hiện ở trang chủ, thể loại và search khi bật cấu hình; link trực tiếp vẫn đọc được.",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
       "name": "[APP] Ciweimao",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/ciweimao/plugin.zip",

@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/plugin.json
 
 ## Lưu ý
 
-- Các extension đọc truyện dùng được trên bản VBook thường.
+- Các extension đọc truyện dùng được trên bản VBook thường, trừ 1 số ext đặc biệt.
 - Các extension video chỉ xem được trên VBook Beta.
 - Muốn dùng extension Khởi điểm, QQ Book, Fanqie, Faloo thì liên hệ Discord để lấy riêng.
 
