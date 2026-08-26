@@ -638,6 +638,18 @@
       "description": "Đọc truyện chữ Trung trên 69书吧. Nếu bị Cloudflare/verify chặn, mở trang 69书吧 trong trình duyệt VBook để xác minh.",
       "locale": "zh_CN",
       "type": "chinese_novel"
+    },
+    {
+      "name": "飘天文学",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/piaotia/plugin.zip",
+      "version": 2,
+      "source": "https://www.piaotia.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/piaotia/icon.png",
+      "description": "Đọc truyện chữ Trung trên 飘天文学 (piaotia.com), hỗ trợ khám phá, phân loại, xếp hạng, tìm kiếm, thông tin truyện, mục lục và nội dung chương.",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
     }
   ]
 }
+
