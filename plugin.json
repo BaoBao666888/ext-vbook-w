@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "69书吧.TW",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/69shubatw/plugin.zip",
+      "version": 1,
+      "source": "https://69shuba.tw",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/69shubatw/icon.png",
+      "description": "Đọc truyện chữ Trung trên 69shubatw. Nếu gặp xác minh, nhấn Trang nguồn, vượt xác minh rồi quay lại.",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
       "name": "Mino Truyện",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/minotruyen/plugin.zip",
