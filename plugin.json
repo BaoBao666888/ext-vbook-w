@@ -304,7 +304,7 @@
       "name": "Destin Team",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/destinteam/plugin.zip",
-      "version": 2,
+      "version": 3,
       "source": "https://destinteam.xyz/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/destinteam/icon.png",
       "description": "Đọc truyện tranh trên Destin Team.",
@@ -652,4 +652,3 @@
     }
   ]
 }
-
