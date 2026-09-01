@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "[wfxs]微風小說",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wfxs/plugin.zip",
+      "version": 1,
+      "source": "https://www.wfxs.tw",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/wfxs/icon.png",
+      "description": "Đọc truyện chữ trên 微風小說 (wfxs). Nếu gặp Cloudflare, nhấn Trang nguồn, vượt xác minh trong trình duyệt VBook rồi tải lại.",
+      "locale": "zh_TW",
+      "type": "chinese_novel"
+    },
+    {
       "name": "69书吧.TW",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/69shubatw/plugin.zip",
