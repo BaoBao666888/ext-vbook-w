@@ -8,7 +8,7 @@
       "name": "AI Chat",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/aichat/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://aistudio.google.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/aichat/icon.png",
       "description": "[TEST] AI Chat thử nghiệm cho VBook beta. Hỗ trợ Gemini, nhiều API key dự phòng và function calling qua tool native của VBook. Lỗi API/tool được giải thích kèm cách khắc phục rõ ràng.",
