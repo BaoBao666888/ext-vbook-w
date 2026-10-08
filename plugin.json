@@ -682,6 +682,20 @@
       "description": "Đọc truyện chữ Trung trên 飘天文学 (piaotia.com), hỗ trợ khám phá, phân loại, xếp hạng, tìm kiếm, thông tin truyện, mục lục và nội dung chương.",
       "locale": "zh_CN",
       "type": "chinese_novel"
+    },
+    {
+      "name": "52shuku by QuocBao",
+      "author": "Moleys",
+      "version": 12,
+      "source": "https://www.52shuku.net",
+      "regexp": "(?:https?://)?(?:(?:www|m)\\.)?52shuku\\.(?:vip|net)/(?:[^/?#]+/)+[^/?#]+\\.html(?:[?#].*)?",
+      "description": "Đọc truyện trên trang https://www.52shuku.net",
+      "locale": "zh_CN",
+      "language": "javascript",
+      "type": "chinese_novel",
+      "encrypt": true,
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/52shuku/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/52shuku/icon.png"
     }
   ]
 }
