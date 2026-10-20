@@ -686,16 +686,24 @@
     {
       "name": "52shuku by QuocBao",
       "author": "Moleys",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/52shuku/plugin.zip",
       "version": 12,
       "source": "https://www.52shuku.net",
-      "regexp": "(?:https?://)?(?:(?:www|m)\\.)?52shuku\\.(?:vip|net)/(?:[^/?#]+/)+[^/?#]+\\.html(?:[?#].*)?",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/52shuku/icon.png",
       "description": "Đọc truyện trên trang https://www.52shuku.net",
       "locale": "zh_CN",
-      "language": "javascript",
-      "type": "chinese_novel",
-      "encrypt": true,
-      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/52shuku/plugin.zip",
-      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/52shuku/icon.png"
+      "type": "chinese_novel"
+    },
+    {
+      "name": "Anime Vietsub",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/animevietsub/plugin.zip",
+      "version": 5,
+      "source": "https://animevietsub.sale/",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/animevietsub/icon.png",
+      "description": "Xem video trên AnimeVietsub. ",
+      "locale": "vi_VN",
+      "type": "video"
     }
   ]
 }
