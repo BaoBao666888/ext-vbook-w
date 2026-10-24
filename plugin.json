@@ -704,6 +704,17 @@
       "description": "Xem video trên AnimeVietsub. ",
       "locale": "vi_VN",
       "type": "video"
+    },
+    {
+      "name": "Mọt Truyện",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/plugin.zip",
+      "version": 2,
+      "source": "https://mottruyen.app",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/mottruyenapp/icon.png",
+      "description": "Đọc truyện trên app Mọt Truyện",
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
