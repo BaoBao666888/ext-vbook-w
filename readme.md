@@ -28,6 +28,6 @@ Email: `quocbao120621@gmail.com`
 
 ## Donate
 
-Tiền thì ai không cần chứ ~, cảm ơn nếu bạn ủng hộ nhoa :>.
+Cảm ơn nếu bạn ủng hộ nhoa :>.
 
 ![Donate QR](vcb.png)
