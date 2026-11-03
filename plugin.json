@@ -326,7 +326,7 @@
       "name": "YouTube",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/yt/plugin.zip",
-      "version": 9,
+      "version": 10,
       "source": "https://www.youtube.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/yt/icon.png",
       "description": "Xem video, live và playlist trên Du Tu Be. Hỗ trợ video trẻ em, nhiều audio và phụ đề.\nCó thể chọn trình phát Video hoặc Audio trong cấu hình ext.",
