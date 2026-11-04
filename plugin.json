@@ -715,6 +715,17 @@
       "description": "Đọc truyện trên app Mọt Truyện",
       "type": "novel",
       "locale": "vi_VN"
+    },
+    {
+      "name": "黃金屋中文",
+      "author": "QuocBao",
+      "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hjwzw/plugin.zip",
+      "version": 1,
+      "source": "https://tw.hjwzw.com",
+      "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/hjwzw/icon.png",
+      "description": "Đọc truyện trên 黃金屋中文. ",
+      "locale": "zh_TW",
+      "type": "chinese_novel"
     }
   ]
 }
