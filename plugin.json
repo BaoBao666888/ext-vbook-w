@@ -63,7 +63,7 @@
       "name": "Immersive Translate",
       "author": "QuocBao",
       "path": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/immersivetranslate/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://immersivetranslate.com/",
       "icon": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/immersivetranslate/icon.png",
       "description": "Dịch bằng Free Auto của Immersive Translate. Khi user_token hợp lệ, ext tự hiện các model Pro/Max mà tài khoản được dùng.",
